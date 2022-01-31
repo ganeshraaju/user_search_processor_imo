@@ -32,6 +32,7 @@ This file contains query to validate job run output with expected output results
 
 
 **Clean-Up**
+
 After period of 60 days when the processing is completed,we will go and delete the stack which will remove the cloud resources
        
     
