@@ -25,6 +25,10 @@ This File Contains CloudFormation Template to deploy this pipeline
 4. Glue Workflow - To Orchestrate Glue Job and Crawlers
 5. Step Function - To Trigger Workflow
 6. EvenBridge - To Trigger StepFunctions
+
+**Unit_testing_query.sql**
+
+This file contains query to validate job run output with expected output results
            
        
     
